@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raushan Kumar Raman</h1>
 <h3 align="center">A passionate Sotware Engineer who loves to build software.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan998&label=Profile%20views&color=0e75b6&style=flat" alt="raushan998" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushan998" alt="raushan998" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby on Rails, Reactjs, Docker, Kubernetes**
 
