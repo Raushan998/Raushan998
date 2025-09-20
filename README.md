@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **raushan.raman23011999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VCUMilgFd7ouaA394G4NO_2vSpDWxgIX/view?usp=sharing](https://drive.google.com/file/d/1VCUMilgFd7ouaA394G4NO_2vSpDWxgIX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nECa55GgrbaFb41tcubW8H8VjpYq27AV/view?usp=sharing](https://drive.google.com/file/d/1nECa55GgrbaFb41tcubW8H8VjpYq27AV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
